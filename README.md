@@ -10,7 +10,7 @@ commercial arena again, soon.
 equations, although some of that has gone.  I'm half way through a course on Numerical Methods for Engineers, again by Coursera.  I'd like to do the AWS Developer Associate exam,
 as I really like the cloud.
 - 💞️ I’m looking to collaborate on, well, not sure really - not sure I know where to start.
-- 📫 How to reach me?  Twitter under andydouglas1967, similarly for instagram.
+- 📫 How to reach me?  Twitter under andydouglas1967, and as andrewdouglas1967 for instagram.
 
 <!---
 kufena/kufena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
